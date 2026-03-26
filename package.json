@@ -1,0 +1,9 @@
+{
+  "name": "recurring-subscription-vault",
+  "version": "1.0.0",
+  "description": "On-chain recurring payment engine",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
